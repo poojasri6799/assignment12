@@ -24,5 +24,5 @@ max=${dict[$i]}
 b=$i;
 fi
 done
-echo "Maximum number of counts are " $a " = " $max "times ";
-echo "Minimum number of counts are " $b " = " $min "times ";
+echo "Maximum number of counts are " $b " = " $max "times ";
+echo "Minimum number of counts are " $a " = " $min "times ";
